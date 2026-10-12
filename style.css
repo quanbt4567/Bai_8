@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  display: flex;
+  align-items: center;
+  position: sticky;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 33px;
+  letter-spacing: -0.155556px;
+  color: #161c2d;
+}
+a {
+  text-decoration: none;
+}
+.main-nav {
+  margin-left: auto;
+}
