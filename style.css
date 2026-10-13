@@ -87,7 +87,7 @@ button {
   position: absolute;
   inset: 0;
   background-image: repeating-linear-gradient(
-    115deg,
+    65deg,
     rgba(22, 28, 45, 0.03) 0 1px,
     transparent 1px 18px
   );
